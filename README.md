@@ -3,7 +3,7 @@
 $ git clone https://github.com/likun7981/test-rhl
 $ yarn 
 $ yarn start
-``` . 
+```
 
 - step2
 click button `+` and button `split +`
