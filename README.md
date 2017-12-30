@@ -3,15 +3,17 @@
 $ git clone https://github.com/likun7981/test-rhl
 $ yarn 
 $ yarn start
-```
+``` . 
+
 - step2
 click button `+` and button `split +`
 - step3
 change the `App.js` content and save
+
 ```diff
 - <h1 className="App-title">Welcome to React</h1>
 + <h1 className="App-title">Welcome to React Hot Loader</h1>
-```html
+```
 
 result:
  the `Counter` is not change, but the `Split Counter` is reset
